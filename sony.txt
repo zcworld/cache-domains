@@ -1,3 +1,4 @@
+zeus.dl.playstation.net
 gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
 a0.ww.np.dl.playstation.net
@@ -5,5 +6,4 @@ nsx.sec.np.dl.playstation.net
 fau01.ps3.update.playstation.net
 b0.ww.np.dl.playstation.net
 a192.d.akamai.net
-zeus.dl.playstation.net
 sonycoment.vo.llnwd.net
