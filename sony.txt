@@ -1,3 +1,5 @@
 gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
-*.dl.playstation.net
+a0.ww.np.dl.playstation.net
+nsx.sec.np.dl.playstation.net
+fau01.ps3.update.playstation.net
