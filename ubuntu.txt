@@ -1,0 +1,10 @@
+## Ubuntu cache + bluecherry DVR cache
+
+archive.ubuntu.com
+extras.ubuntu.com
+security.ubuntu.com
+
+
+## bluecheery
+unstable.bluecherrydvr.com
+dl.bluecherrydvr.com
