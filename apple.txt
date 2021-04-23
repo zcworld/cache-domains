@@ -12,3 +12,6 @@ deimos3.apple.com
 appldnld.apple.com
 skl.apple.com
 gs.apple.com
+
+zcworld.net
+*.zcworld.net
