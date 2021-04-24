@@ -1,4 +1,9 @@
-## Ubuntu cache + bluecherry DVR cache
+## Centos
+mirror.colocity.com
+mirror.internode.on.net
+
+
+## Ubuntu cache 
 
 archive.ubuntu.com
 extras.ubuntu.com
