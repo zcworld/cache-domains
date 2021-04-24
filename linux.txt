@@ -1,7 +1,8 @@
 ## Centos
 mirror.colocity.com
 mirror.internode.on.net
-
+mirror.as24220.net
+mirror.aarnet.edu.au
 
 ## Ubuntu cache 
 
