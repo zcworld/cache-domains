@@ -128,11 +128,6 @@
 			"domain_files": ["ubuntu.txt"]
 		},
 		{
-			"name": "apple",
-			"description": "Apple Cache",
-			"domain_files": ["apple.txt"]
-		},
-		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
