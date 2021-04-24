@@ -124,8 +124,8 @@
 		},
 		{
 			"name": "ubuntu",
-			"description": "Ubuntu Cache",
-			"domain_files": ["ubuntu.txt"]
+			"description": "Linux Cache",
+			"domain_files": ["linux.txt"]
 		},
 		{
 			"name": "xboxlive",
