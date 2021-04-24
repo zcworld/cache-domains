@@ -6,9 +6,7 @@ security.ubuntu.com
 *.ubuntu.com
 
 ## bluecheery
-unstable.bluecherrydvr.com
-dl.bluecherrydvr.com
-*.bluecherrydvr.co
+*.bluecherrydvr.com
  
 ### alpinelinux ### 
  
