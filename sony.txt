@@ -16,3 +16,8 @@ uef.np.dl.playstation.net
 vulcan.dl.playstation.net
 *.dl.playstation.net
 *.np.dl.playstation.net
+b0.ww.np.dl.playstation.net
+*.ww.np.dl.playstation.net
+ww.np.dl.playstation.net
+dl.playstation.net
+*.dl.playstation.net
