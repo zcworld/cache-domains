@@ -15,3 +15,4 @@ tmdb.np.dl.playstation.net
 uef.np.dl.playstation.net
 vulcan.dl.playstation.net
 *.dl.playstation.net
+*.np.dl.playstation.net
